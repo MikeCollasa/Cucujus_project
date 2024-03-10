@@ -1,7 +1,7 @@
 # _Cucujus_ microbiome project
 ## Description of the pipeline created in the Symbiosis Evolution Research Group and used to generate data used for the analysis of _Cucujus_ V4 16S rRNA amplicon sequencing data.
 
-### [Amplicon processing](https://github.com/Symbiosis-JU/Philaenus-Microbiota-Project/blob/main/Amplicon%20processing):
+### [Amplicon processing](https://github.com/MikeCollasa/Cucujus_project/blob/main/Amplicon%20processing):
 - Analyses each library (sample) separately,
 - Merges R1 and R2 reads, passes only high-quality reads,
 - Converts fastq to fasta files,
