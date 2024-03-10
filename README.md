@@ -15,7 +15,7 @@ Next, it converts fastq to fasta files and dereplicates and denoise sequences in
 Joins all the libraries into one table and assigns all the sequences to taxonomy.
 **This is the first step of analysis of bacterial 16S!** 
 
-### [Decontamination](https://github.com/MikeCollasa/QUACK/blob/main/QUACK.py):
+### [Decontamination and Quantification](https://github.com/MikeCollasa/Cucujus_project/blob/main/Decontamination%20and%20Quantification):
 - Uses as an input:
   - 16S zotu table (produced by Amplicon processing),
   - otus.tax (produced by Amplicon processing),
