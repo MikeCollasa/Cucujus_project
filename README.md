@@ -25,4 +25,7 @@ Joins all the libraries into one table and assigns all the sequences to taxonomy
   - Table with zotus assigned as: symbiont or contaminants,
   - Decontaminated zotu and otu tables,
   - Statistics table.
+ 
+Based on the output of the Amplcion processing script, a list of blanks and spike-ins (artificial constructs added in known copies during DNA extraction)
+it efficiently removes contaminants from extraction and PCR kits and allows to calculate bacterial absolute abundances.
 
